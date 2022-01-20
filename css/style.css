@@ -1,0 +1,27 @@
+.color-change {
+    background-color: #FEEAE9;
+    color: #1F1F1F;
+    border-radius: 15px;
+}
+
+.button-prime {
+    background-image: linear-gradient(#FF589B, #FF136F);
+    color: #fff;
+    border: 1px solid #FF136F;
+    border-radius: 15px;
+
+}
+
+.clr-change {
+    color: #FF136F;
+}
+
+.watch-clr {
+    background-image: linear-gradient(#FF9C35, #FFD019);
+    border-radius: 15px;
+}
+
+.shoes-clr {
+    background-image: linear-gradient(#4289FF, #3F07F8);
+    border-radius: 15px;
+}
